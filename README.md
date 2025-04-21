@@ -18,6 +18,10 @@ uv sync
 jupyter lab
 ```
 
+Make sure to select `venv` as the kernel. 
+
+![env selection](./env.png)
+
 ## Code
 
 The code is available at [api_data_extract.ipynb](./api_data_extract.ipynb)
