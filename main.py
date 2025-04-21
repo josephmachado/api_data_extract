@@ -1,3 +1,7 @@
+def dummy_function(spark: SparkSession) -> None:
+    pass
+
+
 def main():
     print("Hello from api-data-extract!")
 

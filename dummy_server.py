@@ -1,3 +1,4 @@
+# Written by Claude
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import time
 import json

@@ -1,0 +1,10 @@
+[project]
+name = "api-data-extract"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.4.0",
+    "requests>=2.32.3",
+]
